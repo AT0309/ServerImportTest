@@ -1,1 +1,1 @@
-# ServerImportTest
+サーバーを立てる際に読み込むhtmlやpugでcssやjsを読み込むテスト用リポジトリ
